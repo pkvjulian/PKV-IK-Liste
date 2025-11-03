@@ -778,17 +778,17 @@
                 </telecom>
                 <telecom>
                     <system value="phone"></system>
-                    <value value="+49 221 1636-0"></value>
+                    <value value="+49 89 5121-0"></value>
                 </telecom>
                 <telecom>
                     <system value="fax"></system>
-                    <value value="+49 221 1636-200"></value>
+                    <value value="+49 89 5121-1000"></value>
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value=" null"></line>
-                    <city value="Köln"></city>
-                    <postalCode value="50593"></postalCode>
+                    <line value="Adenauerring 7"></line>
+                    <city value="München"></city>
+                    <postalCode value="81737"></postalCode>
                     <country value="D"></country>
                 </address>
             </Organization>
@@ -1518,7 +1518,7 @@
                 </telecom>
                 <address>
                     <type value="both"></type>
-                    <line value="Ostendstraße 303"></line>
+                    <line value="Ostendstraße 100"></line>
                     <city value="Nürnberg"></city>
                     <postalCode value="90334"></postalCode>
                     <country value="D"></country>
@@ -2317,3 +2317,4 @@
         </resource>
     </entry>
 </Bundle>
+
